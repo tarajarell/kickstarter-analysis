@@ -9,7 +9,7 @@ The purpose of this project is to synthesize information for Louise, who is seek
 
 ### Analysis of Outcomes Based on Launch Date
 [Graph of Outcomes Based on Launch Date](https://github.com/tarajarell/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
-![Theater_Outcomes_vs_Launch](This PC/desktop/Challenge Assignments/Week 1/Challenge/Resources/Theater_Outcomes_vs_Launch)
+![Theater_Outcomes_vs_Launch](https://github.com/tarajarell/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 [Graph of Outcomes Based on Goals](https://github.com/tarajarell/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
