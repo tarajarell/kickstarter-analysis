@@ -41,4 +41,4 @@ Additionally, to find the most recent analysis, graphs for the outcomes for *onl
 
 ![Graph of Theater Outcomes vs Launch]
 
-![Graph of Play Outcomes vs Launch]
+![Graph of Play Outcomes vs Launch](https://github.com/tarajarell/kickstarter-analysis/blob/master/Play_Outcomes_vs_Launch.png)
