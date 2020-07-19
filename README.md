@@ -19,10 +19,6 @@ Goal amounts appear to have a slight overall upward trend among failed play fund
 
 ### Challenges and Difficulties Encountered
 
-Data variability in the line graph for Outcomes Based on Goals led interpretation of an overall trend difficult to visually analyze. With the addition of a graph showing the trend lines (below), the visual analysis of overall outcomes for play fundraising data may have lent to better interpretation and use by the client.
-
-![Graph of Outcomes Based on Goals with trendlines](https://github.com/tarajarell/kickstarter-analysis/blob/master/Outcomes_vs_Goals_with_trendlines.png)
-
 ## Results
 
 ### Conclusion of Outcomes based on Launch Date
@@ -32,3 +28,6 @@ Data variability in the line graph for Outcomes Based on Goals led interpretatio
 ### Limitations of this dataset
 
 ### Some other possible tables and graphs that we could create
+Data variability in the line graph for Outcomes Based on Goals led interpretation of an overall trend difficult to visually analyze. With the addition of a graph showing the trend lines (below), the visual analysis of overall outcomes for play fundraising data may have lent to better interpretation and use by the client.
+
+![Graph of Outcomes Based on Goals with trendlines](https://github.com/tarajarell/kickstarter-analysis/blob/master/Outcomes_vs_Goals_with_trendlines.png)
