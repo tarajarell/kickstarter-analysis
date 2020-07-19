@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project is to synthesize information for Louise, who is seeking analysis on plays to better understand how to findraise for her own productions. 
+The purpose of this project is to synthesize information for Louise, who is seeking analysis on plays to better understand how to findraise for her own productions. Following her fundraising efforts for one play, she wought a comparison of how other fundraising efforts had fared - particularly in relation to launch date and fundraising goal amount. 
 
 ## Analysis and Challenges
 
