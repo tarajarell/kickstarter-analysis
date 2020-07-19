@@ -18,6 +18,7 @@ The Kickstarter data set indicates that overall that there were more successful 
 Goal amounts appear to have a slight overall upward trend among failed play fundraising, and a slight overall downward trend among successful play fundraising. Data from goal amounts in the range of $35000-44999 appear to be against this trend, while the fundraising campaigns with goals of $45000 or more added to the trends previously described. There were no cancelled play fundraising initiatives found in the Kickstarter data set. An even split in the percentage of successful vs failed fundraising campaigns occurred when the goal amount was $15000-19999, while there was a 100% failure outcome when play fundraising goals were $45000-49999. 
 
 ### Challenges and Difficulties Encountered
+Some challenges in compiling this data into visuals for client comprehension included changing the data information from Theater to Plays between data analysis. The data sets utilized not only changes in what outcomes were being compared against (goal amount and launch date) but also by parent category of theater (for launch date) and subcategory plays (by goal amount). This complicated some aspects of comparing the data sets as one included larger numbers while the other was more specific and more similar to what Louise's fundraising goals were. 
 
 ## Results
 
