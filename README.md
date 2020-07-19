@@ -10,7 +10,7 @@ The purpose of this project is to synthesize information for Louise, who is seek
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
-[https://github.com/tarajarell/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png]
+[Graph of Outcomes Based on Goals](https://github.com/tarajarell/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
