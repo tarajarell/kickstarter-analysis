@@ -32,3 +32,13 @@ Some challenges in compiling this data into visuals for client comprehension inc
 Data variability in the line graph for Outcomes Based on Goals led interpretation of an overall trend difficult to visually analyze. With the addition of a graph showing the trend lines (below), the visual analysis of overall outcomes for play fundraising data may have lent to better interpretation and use by the client.
 
 ![Graph of Outcomes Based on Goals with trendlines](https://github.com/tarajarell/kickstarter-analysis/blob/master/Outcomes_vs_Goals_with_trendlines.png)
+
+To account for differences in comparing the findraising outcomes based on launch date (for theater) and the outcomes based on fundraising goals (for plays), a graph could have been created to demonstrate a visual analysis of the fundraising outcomes for plays based on launch dates.
+
+![Graph of Play Outcomes vs Launch]
+
+Additionally, to find the most recent analysis, graphs for the outcomes for *only* 2015-2017 data could have been included in the analysis. These were the most recent dates foundin the Kickstarter data, and may emulate the most recent trends in fundraising as compared with dates from durther back. 
+
+![Graph of Theater Outcomes vs Launch]
+
+![Graph of Play Outcomes vs Launch]
