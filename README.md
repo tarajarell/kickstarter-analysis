@@ -35,10 +35,10 @@ Data variability in the line graph for Outcomes Based on Goals led interpretatio
 
 To account for differences in comparing the findraising outcomes based on launch date (for theater) and the outcomes based on fundraising goals (for plays), a graph could have been created to demonstrate a visual analysis of the fundraising outcomes for plays based on launch dates.
 
-![Graph of Play Outcomes vs Launch]
+![Graph of Play Outcomes vs Launch](https://github.com/tarajarell/kickstarter-analysis/blob/master/Play_Outcomes_vs_Launch.png)
 
 Additionally, to find the most recent analysis, graphs for the outcomes for *only* 2015-2017 data could have been included in the analysis. These were the most recent dates foundin the Kickstarter data, and may emulate the most recent trends in fundraising as compared with dates from durther back. 
 
-![Graph of Theater Outcomes vs Launch]
+![Graph of Theater Outcomes vs Launch](https://github.com/tarajarell/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Recent_Launch_2015_to_2017.png
 
-![Graph of Play Outcomes vs Launch](https://github.com/tarajarell/kickstarter-analysis/blob/master/Play_Outcomes_vs_Launch.png)
+![Graph of Play Outcomes vs Launch]
