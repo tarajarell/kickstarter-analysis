@@ -47,4 +47,4 @@ Furthermore, to find the most recent analysis, graphs for the outcomes for *only
 
 ![Graph of Theater Outcomes vs Launch 2015 to 2017](https://github.com/tarajarell/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Recent_Launch_2015_to_2017.png)
 
-![Graph of Play Outcomes vs Launch 2015 to 2017]
+![Graph of Play Outcomes vs Launch 2015 to 2017](https://github.com/tarajarell/kickstarter-analysis/blob/master/Play_Outcomes_vs_Recent_Launch_2015_to_2017.png)
