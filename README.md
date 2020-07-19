@@ -24,7 +24,7 @@ Some challenges in compiling this data into visuals for client comprehension inc
 
 ### Conclusion of Outcomes based on Launch Date
 
-Launch date did seem to have a level of correlation or predictability with fundraising success. Conclusions may be drawn to recommend to Louise that future fundraising efforts may fare best when launching the initiative in the months of **May**, June, and July. Further, it may be least advantageous to launch new fundraising for theater projects in November and December. 
+Launch date did seem to have a level of correlation or predictability with fundraising success. Conclusions may be drawn to recommend to Louise that future fundraising efforts may fare best when launching the initiative in the months of **May**, June, and July. Further, it may be least advantageous for Louise to launch new fundraising for theater projects in November and December. 
 
 ### Conclusion of Outcomes based on Goal
 
