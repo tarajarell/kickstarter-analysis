@@ -24,9 +24,15 @@ Some challenges in compiling this data into visuals for client comprehension inc
 
 ### Conclusion of Outcomes based on Launch Date
 
+Launch date did seem to have a level of correlation or predictability with fundraising success. Conclusions may be drawn to recommend to Louse that future fundraising efforts may fare best when launching the initiative in the months of **May**, June, and July. Further, it may be least advantageous to launch new fundraising for theater projects in November and December. 
+
 ### Conclusion of Outcomes based on Goal
 
+Fundraising goals did appear to have a relationship with fundraising success when analysing for plays using Kickstarter data. In particular, having a goal of $5000-24999 proved to have a cloaer to 50/50% split on success versus fauilure of a fundraising campaign for plays. The success of a play markedly improved from those which were failures when goals were set at less than $1000 and $35000-49999. It is also important to note that plays with a goal set at $25000-29999 and 45000-49999 both showed substantially more likelihood for failure toward meeting their goal than having success in obtaining the goal. 
+
 ### Limitations of this dataset
+
+Data is not available for 2018 and beyond, specifically for Theater and Plays. While ther emay not be much variability in fundraising across a given year, it may nonetheless behoove a campaign to look at more recent data sets prior to honing in on fundraising goals in 2020 or beyond. 
 
 ### Some other possible tables and graphs that we could create
 Data variability in the line graph for Outcomes Based on Goals led interpretation of an overall trend difficult to visually analyze. With the addition of a graph showing the trend lines (below), the visual analysis of overall outcomes for play fundraising data may have lent to better interpretation and use by the client.
