@@ -9,6 +9,7 @@ The purpose of this project is to synthesize information for Louise, who is seek
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://github.com/tarajarell/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
+
 The Kickstarter data set indicates that overall that there were more successful theater outcomes than failed, and that there were more failed outcomes than cancelled fundraisers. Successful months for theater fundraisers peaked in May, and failed fundraisers for theater projects were at their highest May thorugh August and again in October. There appear to be no cancelled fundraising campaigns in October. December showed the lowest amount of successful theater fundraising campaigns, with September and November showing the lowest numbers of failed fundraising initiatives.
 
 ### Analysis of Outcomes Based on Goals
